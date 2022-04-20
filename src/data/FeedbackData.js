@@ -11,7 +11,7 @@ const FeedbackData = [{
   {
     id: 3,
     rating: 8,
-    text: 'This is feedback item 3333',
+    text: 'This is feedback item 33338888',
   },
 ]
 
