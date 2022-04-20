@@ -1,7 +1,7 @@
 const FeedbackData = [{
     id: 1,
     rating: 7,
-    text: 'This is feedback item 11111',
+    text: 'This is feedback item 1',
   },
   {
     id: 2,
@@ -11,7 +11,7 @@ const FeedbackData = [{
   {
     id: 3,
     rating: 8,
-    text: 'This is feedback item 33338888',
+    text: 'This is feedback item 3',
   },
 ]
 
