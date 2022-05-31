@@ -81,4 +81,4 @@ export const FeedbackProvider = ({children}) => {
     </FeedbackContext.Provider>
 }
 
-export default FeedbackContext
+export default FeedbackProvider
